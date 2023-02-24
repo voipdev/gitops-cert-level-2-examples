@@ -16,7 +16,6 @@ spec:
     repoURL: repoURL: https://github.com/voipdev/gitops-cert-level-2-examples.git
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
-   
     # directory
     directory:
       recurse: false
